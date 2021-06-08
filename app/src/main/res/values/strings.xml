@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tauana projeto</string>
+    <string name="dispara">Iniciar</string>
+    <string name="email">Nome</string>
+    <string name="pass">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="loginv">Voltar ao Login</string>
+    <string name="logini">Voltar ao Início</string>
+
+
+
+</resources>
